@@ -83,12 +83,13 @@ padding-bottom:1.5rem;
 padding-left:2rem;
 padding-right:2rem}
 
-.intro{position:relative}
+.intro{
+position:relative}
 
 @media (min-width:992px){
 	.intro .intro-img{
 	width:75%;
-	float:right}
+	float:left}
 	.intro .intro-text{
 	left:0;
 	width:60%;
