@@ -2,20 +2,20 @@
 <html lang="en">
 
 <head>
-    <script type="text/javascript">
-        function form(){
-            var fn = document.getElementById("form_name").value;
-            var ln = document.getElementById("form_lastname").value;
-            var em = document.getElementById("form_email").value;
-            var ph = document.getElementById("form_phone").value;
-            var me = document.getElementById("form_message").value
+    <!--<script type="text/javascript" src="contact.js" >-->
+        <!--function form(){-->
+            <!--var fn = document.getElementById("form_name").value;-->
+            <!--var ln = document.getElementById("form_lastname").value;-->
+            <!--var em = document.getElementById("form_email").value;-->
+            <!--var ph = document.getElementById("form_phone").value;-->
+            <!--var me = document.getElementById("form_message").value-->
 
 
-            document.getElementById("form_name").value = " ";
+            <!--document.getElementById("form_name").value = " ";-->
 
-            alert("Form has been submitted");
-        }
-    </script>
+            <!--alert("Form has been submitted");-->
+        <!--}-->
+    <!--</script>-->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
@@ -24,6 +24,8 @@
     <title>Aggie Dog # - Careers</title>
 
     <!-- Bootstrap core CSS -->
+    <script type="text/javascript" src="contact.js" ></script>
+
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom fonts for this template -->
@@ -133,9 +135,10 @@
                                     </div>
                                 </div>
                                 <div class="col-md-12">
-                                    <button type="button" onclick="form()" >
-                                        Turn in form
+                                    <button type="button" onclick="form_submit()" class="btn btn-success" id="success" value="Turn in form">
+                                        Turn in form.
                                     </button>
+
                                 </div>
                             </div>
                             <div class="row">
