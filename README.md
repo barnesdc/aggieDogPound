@@ -2,10 +2,6 @@
 
 [Business Casual](http://startbootstrap.com/template-overviews/business-casual/) is a multipurpose website theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a landing page, about page, blog page, and a contact page along with various custom styles and components.
 
-## Preview
-
-[![Business Casual Preview](https://startbootstrap.com/assets/img/templates/business-casual.jpg)](https://blackrockdigital.github.io/startbootstrap-business-casual/)
-
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-business-casual/)**
 
 ## Status
@@ -16,14 +12,6 @@
 [![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-business-casual/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-business-casual)
 [![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-business-casual/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-business-casual?type=dev)
 
-## Download and Installation
-
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/business-casual/)
-* Install via npm: `npm i startbootstrap-business-casual`
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-business-casual.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-business-casual)
-
 ## Usage
 
 ### Basic Usage
@@ -33,14 +21,6 @@ After downloading, simply edit the HTML and CSS files included with the template
 ### Advanced Usage
 
 After installation, run `npm install` and then run `gulp dev` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
-
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-business-casual/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/business-casual/).
-
-## Custom Builds
-
-You can hire Start Bootstrap to create a custom build of any template, or create something from scratch using Bootstrap. For more information, visit the **[custom design services page](https://startbootstrap.com/bootstrap-design-services/)**.
 
 ## About
 
